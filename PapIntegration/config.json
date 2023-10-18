@@ -1,0 +1,4 @@
+﻿{
+    "ApiKey": "secret key",
+    "ApiBase": "https://merchant-api.test.papara.com/"
+}
